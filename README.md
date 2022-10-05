@@ -2,7 +2,7 @@
 
 
 ## Deployed Link
-
+ - https://nle641999.github.io/Weather-Forecasting-JS/
 
 ### Description
 
